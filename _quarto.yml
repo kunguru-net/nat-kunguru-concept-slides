@@ -1,4 +1,5 @@
 project:
   title: "Kunguru Concept Slides"
+  output-dir: _site
   render:
     - index.qmd
