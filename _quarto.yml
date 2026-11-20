@@ -1,0 +1,4 @@
+project:
+  title: "Kunguru Concept Slides"
+  render:
+    - index.qmd

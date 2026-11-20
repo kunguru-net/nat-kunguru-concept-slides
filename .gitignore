@@ -1,0 +1,11 @@
+# Quarto build output
+/.quarto/
+/_site/
+/.cache/
+index.html
+**/*_files/
+
+# nest runtime marker
+.nest
+
+**/*.quarto_ipynb

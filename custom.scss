@@ -1,0 +1,51 @@
+/*-- scss:defaults --*/
+
+// Kunguru palette (from kunguru.net)
+$body-bg: #1a1a2e;
+$body-color: #e0e0e0;
+$presentation-heading-color: #ffffff;
+$link-color: #e94560;
+$link-color-hover: #ff6b6b;
+$code-block-bg: #16213e;
+$code-color: #ff6b6b;
+$light-bg-text-color: #1a1a2e;
+$light-bg-link-color: #0f3460;
+
+/*-- scss:rules --*/
+
+.reveal h1,
+.reveal h2 {
+  text-transform: none;
+}
+
+.reveal .slide-number {
+  color: #e94560;
+}
+
+.reveal blockquote {
+  border-left: 4px solid #e94560;
+  background: #16213e;
+  padding: 0.4em 1em;
+  font-style: normal;
+}
+
+.reveal table {
+  font-size: 0.85em;
+}
+
+.reveal th {
+  background: #16213e;
+  color: #ffffff;
+}
+
+.reveal td {
+  border-bottom: 1px solid #0f3460;
+}
+
+.reveal strong {
+  color: #ffffff;
+}
+
+.reveal .accent {
+  color: #e94560;
+}
